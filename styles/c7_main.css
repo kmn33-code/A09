@@ -45,6 +45,11 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
+ul {
+    list-style-type: none;  
+    margin: 0;              
+    padding: 0;            
+}
 /* the styles for the section */
 section {
 	width: 525px;
